@@ -1,0 +1,5 @@
+{
+  "name": "AI Quiz Generator",
+  "description": "An intelligent quiz generator that creates personalized questions from your course content. Paste text or upload an image, and let AI generate multiple-choice and short-answer questions tailored to different difficulty levels.",
+  "requestFramePermissions": []
+}
